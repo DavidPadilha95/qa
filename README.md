@@ -3,7 +3,7 @@ Testes de Qualidade
 
 ## Como executar o projeto
 
-* Importa nte ter o ruby instalado
+* Importante ter o ruby instalado
 
 ### Instalar o bundler
 `
