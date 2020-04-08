@@ -1,7 +1,7 @@
 # qa
 Testes de Qualidade
 
-##Como executar o projeto
+## Como executar o projeto
 
 * Importa nte ter o ruby instalado
 
