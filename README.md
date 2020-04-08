@@ -15,7 +15,9 @@ install bundler
 `
 bundle install
 `
-### Executar localmente
+### Executar localmente (na minha maquina)
+`
+bundle exec cucumber
 `
 ### Executar no servidor de CI, gerando reports json
 `
