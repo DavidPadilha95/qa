@@ -1,5 +1,4 @@
-# q
-Qa
+# Qa
 Testes de Qualidade
 
 ## Como executar o projeto
